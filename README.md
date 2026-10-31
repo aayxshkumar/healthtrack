@@ -1,5 +1,7 @@
 # HealthTrack – Offline-First Patient Management System
 
+> Built as a take-home assignment for Medblocks in May 2025.
+
 ## Overview
 
 **HealthTrack** is a modern offline-first patient management system built for healthcare providers. It enables efficient registration, tracking, and management of patient data, even in environments with unreliable internet connectivity.
