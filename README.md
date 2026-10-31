@@ -32,7 +32,7 @@ Designed with a focus on user experience and data reliability, HealthTrack uses 
 ## Technology Stack
 
 * **Frontend** – React 19, TypeScript
-* **Database** – PGlite (SQLite compiled to WebAssembly)
+* **Database** – PGlite (PostgreSQL compiled to WebAssembly)
 * **Build Tool** – Vite
 * **Styling** – Tailwind CSS
 * **Icons** – Lucide React
@@ -52,7 +52,7 @@ Designed with a focus on user experience and data reliability, HealthTrack uses 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Aayushkumr/healthtrack.git
+   git clone https://github.com/aayxshkumar/healthtrack.git
    cd healthtrack
    ```
 
